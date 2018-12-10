@@ -1,0 +1,9 @@
+Katana,Japon,Samurai tradizionalki erabiltzen den ezpata bakarreko eta ezpondako mota jakin bati egiten dio erreferentzia.,1392
+Nabaja mariposa,Filipinas,Entrenatutako erabiltzaile baten eskuetan, labana blade abiadura handian eta mugimendu ugari erabil daiteke.,1939
+Karambit,Indonesia, Malasia eta Filipinas,Karambitek xafla kurbatu zorrotz bat du, normalean bi xafla, labana behar bezala egiten denean,1700
+b,a,a,1
+asd,asd,asd,0
+gf,f,f,7
+as,ag,yt,8
+4,4,4,4
+3,3,2,3
